@@ -17,7 +17,7 @@ I totally hate nowadays social media so I don't really do much of an activity on
 
 - **[Email](arman.jnaut@gmail.com)**
 - **[StackOverflow](https://stackoverflow.com/users/11709410/armata99)**
-- **LinkedIn** (not yet)
+- **[LinkedIn] (https://www.linkedin.com/in/armata99)**
 
 ## My Skills/Knowledge Stats 🛠️
 Here is my skill set in details. I divided them into a few section, rated them with stars and maybe a comment.
