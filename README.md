@@ -12,6 +12,7 @@ you may see my works right here.
 
 ## My Projects 💻
 - **[rn-video-slider](https://github.com/armata99/rn-video-slider)**
+
 There are more to be shown. I'll make them public once ready.
 
 ## Find or Contact Me 📩
