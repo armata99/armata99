@@ -4,14 +4,15 @@ Welcome to my GitHub profile.
 Read below briefing to learn more about me.
 
 ## About Me 📋
-I'm 24, masters degree in software engineering and currently work as React-Native developer.
+Masters degree in software engineering and currently work as React-Native developer. Sometimes I code react
+for hobby projects.
 I'm interested in creating open source Mobile App UI components to fill the gaps in community.
-I totally hate nowadays social media so I don't really do much of an activity on such platforms.
+I totally hate the current state of social media, so I don't really do much of an activity on those foul platforms. So
+you may see my works right here.
 
-## My Top Projects 💻
+## My Projects 💻
 - **[rn-video-slider](https://github.com/armata99/rn-video-slider)**
-- **rn-password-meter** (coming soon)
-- **rn-mythic-view** (coming soon)
+There are more to be shown. I'll make them public once ready.
 
 ## Find or Contact Me 📩
 
@@ -22,13 +23,19 @@ I totally hate nowadays social media so I don't really do much of an activity on
 ## My Skills/Knowledge Stats 🛠️
 Here is my skill set in details. I divided them into a few section, rated them with stars and maybe a comment.
 
+### AI coding tools  
+| Name | Rate | Description |
+|--|--|--|
+|Claude| ⭐️⭐️⭐️★★| 
+|Codex| ⭐️★★★★| meh
+
 ### Languages
 | Name | Rate | Description |
 |--|--|--|
 |JS/TS| ⭐️⭐️⭐️⭐️★|
 |Java| ⭐️⭐️⭐️★★|
 |Python| ⭐️⭐️★★★|Sometimes I create handy tools with it.
-|HTML/CSS|⭐️⭐️★★★|
+|HTML/CSS/tailwind|⭐️⭐️★★★|
 |C/C++|⭐️★★★★|
 
 ### Frameworks
@@ -36,23 +43,22 @@ Here is my skill set in details. I divided them into a few section, rated them w
 |--|--|--|
 |React-Native| ⭐️⭐️⭐️⭐️★| I'm actively developing with it
 |Android(java)| ⭐️⭐️★★★| left it alone
-|React| ⭐️★★★★| I'm learning it
-|Django| ★★★★★| used it only once for a CRUD demo
+|React| ⭐️★★★★| Learning
+|Django| ★★★★★| Learning
 
 ### Databases
 |Name|Rate|Description|
 |--|--|--|
 | MMKV | ⭐️⭐️⭐️★★ | Currently using it
 | SQLite | ⭐️⭐️★★★ |Currently using it
-| RoomDB | ⭐️★★★★ |used it in android development back then
-| MongoDB | ★★★★★ |I'd like to learn it
+| MongoDB | ⭐️★★★★ |I'd like to learn it
 
 ### VCS, CI/CD, DevOps, etc
 |Name|Rate|Description|
 |--|--|--|
 | Git | ⭐️⭐️⭐️⭐️★ |
 | GitHub | ⭐️⭐️⭐️★★ |
-| GitHub Actions | ⭐️⭐️★★★ | I use it to publish my modules on npm
+| GitHub Actions | ⭐️⭐️★★★ |
 | GitLab | ⭐️⭐️★★★ |
 
 
@@ -61,8 +67,6 @@ Here is my skill set in details. I divided them into a few section, rated them w
 |--|--|--|
 |Persian| ⭐️⭐️⭐️⭐️⭐️|  my mother tongue
 |English| ⭐️⭐️⭐️⭐️★|  I know a lot
-|Arabic| ⭐️★★★★ |I know a few words and phrases
-|Russian| ⭐️★★★★ |I can swear in it
-|Japanese |⭐️★★★★| I can swear in it
+|Russian| ⭐️★★★★ |I know its alphabet and swear words
 
 That would be all.
