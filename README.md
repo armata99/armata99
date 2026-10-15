@@ -4,7 +4,7 @@
 
 Building mobile applications and exploring better UI components for the React Native ecosystem.
 
-📍 Germany · 📧 [Email](mailto:arman.jnaut@gmail.com) · 💻 [GitHub](https://github.com/armata99)
+📧 [Email](mailto:armata9919@gmail.com) · 💻 [GitHub](https://github.com/armata99)
 
 ---
 
@@ -78,7 +78,7 @@ More projects are in development. I'll make them public when they're ready.
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=armata99&show_icons=true&hide_border=true&rank_icon=github" alt="Arman's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=armata99&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Arman's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armata99&layout=compact&hide_border=true" alt="Most used programming languages" />
 </p>
 
