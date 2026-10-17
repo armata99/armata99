@@ -86,7 +86,7 @@ More projects are in development. I'll make them public when they're ready.
 
 ### 📫 Find Me Online
 
-- 📧 [Email](mailto:arman.jnaut@gmail.com)
+- 📧 [Email](mailto:armata9919@gmail.com)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/11709410/armata99)
 - 💼 [LinkedIn](https://www.linkedin.com/in/armata99)
 
